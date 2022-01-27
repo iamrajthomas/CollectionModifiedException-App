@@ -1,0 +1,13 @@
+C:\Users\c-rajesh.thomas\source\repos\CollectionModifiedException-App\CollectionModifiedException-App\obj\Debug\CollectionModifiedException-App.csprojAssemblyReference.cache
+C:\Users\c-rajesh.thomas\source\repos\CollectionModifiedException-App\CollectionModifiedException-App\obj\Debug\CollectionModifiedException-App.csproj.CoreCompileInputs.cache
+C:\Users\c-rajesh.thomas\source\repos\CollectionModifiedException-App\CollectionModifiedException-App\bin\Debug\CollectionModifiedException-App.exe.config
+C:\Users\c-rajesh.thomas\source\repos\CollectionModifiedException-App\CollectionModifiedException-App\bin\Debug\CollectionModifiedException-App.exe
+C:\Users\c-rajesh.thomas\source\repos\CollectionModifiedException-App\CollectionModifiedException-App\bin\Debug\CollectionModifiedException-App.pdb
+C:\Users\c-rajesh.thomas\source\repos\CollectionModifiedException-App\CollectionModifiedException-App\obj\Debug\CollectionModifiedException-App.exe
+C:\Users\c-rajesh.thomas\source\repos\CollectionModifiedException-App\CollectionModifiedException-App\obj\Debug\CollectionModifiedException-App.pdb
+C:\TFS\RT_AllData\POC\CollectionModifiedException-App\CollectionModifiedException-App\bin\Debug\CollectionModifiedException-App.exe.config
+C:\TFS\RT_AllData\POC\CollectionModifiedException-App\CollectionModifiedException-App\bin\Debug\CollectionModifiedException-App.exe
+C:\TFS\RT_AllData\POC\CollectionModifiedException-App\CollectionModifiedException-App\bin\Debug\CollectionModifiedException-App.pdb
+C:\TFS\RT_AllData\POC\CollectionModifiedException-App\CollectionModifiedException-App\obj\Debug\CollectionModifiedException-App.csproj.CoreCompileInputs.cache
+C:\TFS\RT_AllData\POC\CollectionModifiedException-App\CollectionModifiedException-App\obj\Debug\CollectionModifiedException-App.exe
+C:\TFS\RT_AllData\POC\CollectionModifiedException-App\CollectionModifiedException-App\obj\Debug\CollectionModifiedException-App.pdb
